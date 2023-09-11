@@ -1,0 +1,36 @@
+.DataTable {
+ 
+    background-image: url(../../public/116072-socialv-no-data.gif);
+    background-position: right;
+    background-repeat: no-repeat;
+
+    font-weight: bolder;
+}
+
+.DataTable {
+    margin: 0;
+    height: 100vh;
+}
+
+.DataTable .user-title {
+    font-weight: 900;
+    color: brown;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.DataTable .user-title .user-title-icon {
+    background-image: url(../../public/49086-add-user-account.gif);
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+}
+
+.DataTable .data {
+    font-weight: bolder;
+    
+
+
+
+}

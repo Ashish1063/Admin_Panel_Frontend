@@ -1,0 +1,24 @@
+.Feature{
+  width: 30%;
+ 
+  height: auto;
+    
+    /* box-shadow: 1px 22px 73px -12px rgba(236, 230, 230, 0.35);
+    -webkit-box-shadow: 1px 22px 73px -12px rgba(155, 150, 150, 0.35);
+    -moz-box-shadow: 1px 22px 73px -12px rgba(253, 246, 246, 0.35); */
+    padding: 10px;
+    
+}
+.Feature .top{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    color: gray;
+}
+.Feature .top .title{
+    font-weight: bold;
+}
+/* .Feature:hover .CircularChart{
+    transform: scale(1.1);
+ 
+} */

@@ -1,0 +1,31 @@
+.Home{
+    display: flex;
+    width: 100%;
+
+     
+
+}
+.Home .homecontainer{
+    margin-top: 10px;
+    width: 100%;
+}
+ 
+ 
+.Home .homecontainer .charts{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+ 
+}
+.data-bar{
+    background-color: aqua;
+    height: 75%;
+    
+}
+
+.Home .homecontainer .charts{
+    display: flex;
+    padding: 5px 20px;
+ 
+  }
+ 
